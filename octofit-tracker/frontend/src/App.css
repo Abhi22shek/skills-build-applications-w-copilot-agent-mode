@@ -1,0 +1,24 @@
+.app-shell {
+  min-height: 100vh;
+}
+
+.app-header {
+  background: linear-gradient(135deg, #fff3e6 0%, #f2fbff 100%);
+  border-bottom: 1px solid #e8eef2;
+}
+
+.app-header h1 {
+  color: #1f2a37;
+  font-weight: 700;
+}
+
+.nav-pills .nav-link {
+  background: #eef3f7;
+  color: #1f2a37;
+  border: 1px solid transparent;
+}
+
+.nav-pills .nav-link.active {
+  background: #0d6efd;
+  color: #ffffff;
+}
